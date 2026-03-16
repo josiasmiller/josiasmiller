@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Josias Miller
 
-🚀 **Young developer | Electronics enthusiast | Sheep farmer**
+🚀 **Developer | Electronics enthusiast | Sheep farmer**
 
 Currently working with **HTML, CSS, JavaScript and React** and learning to build **desktop apps using TypeScript + Electron + React**.
 
@@ -16,18 +16,19 @@ Currently working with **HTML, CSS, JavaScript and React** and learning to build
   * Raspberry Pi
   * Robots
   * Smart plugs
-* 🚧 I am currently working on **AnimalTrakker™**, a project related to managing livestock
+* 🚧 I am currently working **AnimalTrakker™** and my own personal fork of it, a project related to managing livestock
 
 ---
 
 ## 🛠️ Tech I Work With
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
-![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge\&logo=electron)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge&logo=electron)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
