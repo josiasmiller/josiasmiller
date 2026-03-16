@@ -4,14 +4,12 @@
 <html>
 <body style="text-align:center; font-family:Arial;">
 
-<h2>Help Support This Petition</h2>
+<h1>Help Support This Petition</h1>
 
-<marquee scrollamount="6" style="font-size:24px;">
-<strong>
 Sign this petition: 
 <a href="https://c.org/k8GbjKxFnY">https://c.org/k8GbjKxFnY</a>
 </strong>
-</marquee>
+
 
 </body>
 </html>
