@@ -1,68 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Josias Miller</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            background-color: #f5f5f5;
-        }
-        h1 {
-            color: #333;
-        }
-        section {
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
+# Hi there 👋 I'm Josias Miller
 
-<h1>Hi there 👋 I am Josias Miller</h1>
+🚀 **Young developer | Electronics enthusiast | Sheep farmer**
 
-<script src="https://keepandroidopen.org/banner.js"></script>
+Currently working with **HTML, CSS, JavaScript and React** and learning to build **desktop apps using TypeScript + Electron + React**.
 
-<section>
-<p>
-Currently I work with HTML, CSS, Javascript and React. Trying to work towards apps in Typescript for Electron with React.
-</p>
+---
 
-<p>
-I am 16 and have always been interested in code. I also enjoy raising sheep and also have a herding dog. I am excited about the project <strong>AnimalTrakker™</strong> and will release my work on that project soon.
-</p>
+## 🧑‍💻 About Me
 
-<p>
-I am interested in about any electronics - smart plugs, robots, ESP32 board, and Rasberry Pi's.
-</p>
-</section>
+* 💻 I have always been interested in coding and technology
+* 🐑 I raise sheep and have a **herding dog**
+* ⚡ I love experimenting with electronics like:
 
-<section>
-<h2>Upcoming Projects</h2>
+  * ESP32 boards
+  * Raspberry Pi
+  * Robots
+  * Smart plugs
+* 🚧 I am currently working on **AnimalTrakker™**, a project related to managing livestock
 
-<ul>
-<li>
-An app for my dad's business that pulls PO data from Zoho API and puts it in a custom form.
-</li>
+---
 
-<li>
-A Kotlin app that forwards SMS to email — then simply reply to the email and your message will be sent as an SMS.
-</li>
+## 🛠️ Tech I Work With
 
-<li>
-And I will always be working on my sheep program...
-</li>
-</ul>
-</section>
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge\&logo=electron)
 
-<section>
-<p>
-<strong>Sign this petition:</strong> 
-<a href="https://c.org/k8GbjKxFnY">https://c.org/k8GbjKxFnY</a>
-</p>
-</section>
+---
 
-</body>
-</html>
+## 🚧 Upcoming Projects
+
+🔹 **Zoho PO Tool**
+An app for my dad's business that pulls **PO data from the Zoho API** and puts it into a custom form.
+
+🔹 **SMS → Email Gateway**
+A **Kotlin Android app** that forwards SMS to email.
+Reply to the email and it sends your message back as an SMS.
+
+🔹 **Sheep Management Program**
+A program I'm building to help manage sheep data and tracking.
+
+---
+
+## 🐑 Main Project
+
+**AnimalTrakker™**
+
+A project focused on livestock tracking and management tools.
+More information and code coming soon.
+
+---
+
+## 📢 Petition
+
+Sign this petition:
+https://c.org/k8GbjKxFnY
+
+---
+
+⭐ Always learning, always building.
+
