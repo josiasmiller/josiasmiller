@@ -2,10 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-Sign the Petition
-</head>
-
 <body style="text-align:center; font-family:Arial;">
 
 <h2>Help Support This Petition</h2>
