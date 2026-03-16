@@ -1,10 +1,10 @@
 ## Hi there 👋 I am Josias Miller
 
-<marquee behavior="alternate" scrollamount="6">
+ATTENTION: SIGN THIS PETITION - OPPOSE ANDROID APK RESTRICTIONS
 
 🔥 **Sign this petition:** https://c.org/k8GbjKxFnY 🔥
 
-</marquee>
+
 
 
 
