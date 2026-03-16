@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Sign the Petition</title>
+Sign the Petition
 </head>
 
 <body style="text-align:center; font-family:Arial;">
