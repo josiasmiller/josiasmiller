@@ -1,23 +1,6 @@
 ## Hi there 👋 I am Josias Miller
 
-<!DOCTYPE html>
-<html>
-<body style="text-align:center; font-family:Arial;">
-
-<h1>Help Support This Petition</h1>
-
-Sign this petition: 
-<a href="https://c.org/k8GbjKxFnY">https://c.org/k8GbjKxFnY</a>
-</strong>
-</body>
-</html>
--------------------------------
-Android APK restriction
-
-
-----------------------------
-
-
+<script src="https://keepandroidopen.org/banner.js"></script>
 
 
 Currently I work with HTML, CSS Javascript and React. Trying to work towards apps in Typescript for Electron with React.
