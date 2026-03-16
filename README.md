@@ -1,5 +1,21 @@
 ## Hi there 👋 I am Josias Miller
 
+<marquee behavior="alternate" scrollamount="6">
+
+🔥 **Sign this petition:** https://c.org/k8GbjKxFnY 🔥
+
+</marquee>
+
+
+
+
+
+
+
+
+
+
+
 Currently I work with HTML, CSS Javascript and React. Trying to work towards apps in Typescript for Electron with React.
 
 I am 16 and have always been interested in code. I also enjoy raising sheep and also have a herding dog. I am excited about the project AnimalTrakker™ and will release my work on that project soon.
