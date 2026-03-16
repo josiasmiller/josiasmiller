@@ -13,4 +13,8 @@ Upcoming Projects:
 
 3. And i will always be working on my sheep progam...
 
+<marquee direction="left" scrollamount="6">
+
 **Sign this petition: https://c.org/k8GbjKxFnY**
+
+</marquee>
