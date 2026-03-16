@@ -1,18 +1,24 @@
 ## Hi there 👋 I am Josias Miller
 
-ATTENTION: SIGN THIS PETITION - OPPOSE ANDROID APK RESTRICTIONS
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sign the Petition</title>
+</head>
 
-🔥 **Sign this petition:** https://c.org/k8GbjKxFnY 🔥
+<body style="text-align:center; font-family:Arial;">
 
+<h2>Help Support This Petition</h2>
 
+<marquee scrollamount="6" style="font-size:24px;">
+<strong>
+Sign this petition: 
+<a href="https://c.org/k8GbjKxFnY">https://c.org/k8GbjKxFnY</a>
+</strong>
+</marquee>
 
-
-
-
-
-
-
-
+</body>
+</html>
 
 
 
