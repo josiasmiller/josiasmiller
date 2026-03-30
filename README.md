@@ -27,20 +27,17 @@ Currently working with **HTML, CSS, JavaScript and React** and learning to build
 
 
 🔹 **Sheep Management Program**
-I'm building to help program to manage sheep data and tracking.
-It will include full EID support - Auto drafting and weighing.
-Hardware Packages - Either a stick reader that connects to the app on your phone or a rugged handheld scanner
-Auto Drafting / Weigh Crate will also be available
-Local or Cloud based
-Full Reporting 
-Seamless sync and import/export
-Mobile App for Android (ios later hopefully)
+🔹I'm building to help program to manage sheep data and tracking.
+🔹It will include full EID support - Auto drafting and weighing.
+🔹Hardware Packages - Either a stick reader that connects to the app on your phone or a rugged handheld scanner
+🔹Auto Drafting / Weigh Crate will also be available
+🔹Local or Cloud based
+🔹Full Reporting 
+🔹Seamless sync and import/export
+🔹Mobile App for Android (ios later hopefully)
+🔹Local Version will have a handheld scanner similar to the X6 that shearwell has. It will also have a desktop app.
+🔹Cloud based version will have apps for Android and ios and will be paired with a stick reader. Desktop users will have a web dashboard to access there data.
 
-
-## 📢 Petition
-
-Sign this petition:
-https://c.org/k8GbjKxFnY
 
 ---
 
