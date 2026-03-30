@@ -10,12 +10,7 @@ Currently working with **HTML, CSS, JavaScript and React** and learning to build
 
 * 💻 I have always been interested in coding and technology
 * 🐑 I raise sheep and have a **herding dog**
-* ⚡ I love experimenting with electronics like:
-
-  * ESP32 boards
-  * Raspberry Pi
-  * Robots
-  * Smart plugs
+* ⚡ I love experimenting with electronics.
 * 🚧 I am currently working **AnimalTrakker™** and my own personal fork of it, a project related to managing livestock
 
 ---
@@ -30,30 +25,17 @@ Currently working with **HTML, CSS, JavaScript and React** and learning to build
 ![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge&logo=electron)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
 
----
-
-## 🚧 Upcoming Projects
-
-🔹 **Zoho PO Tool**
-An app for my dad's business that pulls **PO data from the Zoho API** and puts it into a custom form.
-
-🔹 **SMS → Email Gateway**
-A **Kotlin Android app** that forwards SMS to email.
-Reply to the email and it sends your message back as an SMS.
 
 🔹 **Sheep Management Program**
-A program I'm building to help manage sheep data and tracking.
+I'm building to help program to manage sheep data and tracking.
+It will include full EID support - Auto drafting and weighing.
+Hardware Packages - Either a stick reader that connects to the app on your phone or a rugged handheld scanner
+Auto Drafting / Weigh Crate will also be available
+Local or Cloud based
+Full Reporting 
+Seamless sync and import/export
+Mobile App for Android (ios later hopefully)
 
----
-
-## 🐑 Main Project
-
-**AnimalTrakker™**
-
-A project focused on livestock tracking and management tools.
-More information and code coming soon.
-
----
 
 ## 📢 Petition
 
