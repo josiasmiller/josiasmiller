@@ -36,7 +36,7 @@ Currently working with **HTML, CSS, JavaScript and React** and learning to build
 🔹Seamless sync and import/export
 🔹Mobile App for Android (ios later hopefully)
 🔹Local Version will have a handheld scanner similar to the X6 that shearwell has. It will also have a desktop app.
-🔹Cloud based version will have apps for Android and ios and will be paired with a stick reader. Desktop users will have a web dashboard to access there data.
+🔹Cloud based version will have apps for Android and ios and will be paired with a stick reader. Desktop users will have a web dashboard to access their data.
 
 
 ---
