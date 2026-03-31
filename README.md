@@ -11,8 +11,7 @@ Currently working with **HTML, CSS, JavaScript and React** and learning to build
 * 💻 I have always been interested in coding and technology
 * 🐑 I raise sheep and have a **herding dog**
 * ⚡ I love experimenting with electronics.
-* 🚧 I am currently working **AnimalTrakker™** and my own personal fork of it, a project related to managing livestock
-
+* 🚧 I am currently working **AnimalTrakker™**... and also my personal sheep app.
 ---
 
 ## 🛠️ Tech I Work With
@@ -27,7 +26,6 @@ Currently working with **HTML, CSS, JavaScript and React** and learning to build
 
 
 🔹 **Sheep Management Program**
-🔹I'm building to help program to manage sheep data and tracking.
 🔹It will include full EID support - Auto drafting and weighing.
 🔹Hardware Packages - Either a stick reader that connects to the app on your phone or a rugged handheld scanner
 🔹Auto Drafting / Weigh Crate will also be available
