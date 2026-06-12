@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Josias Miller
 
-🚀 **Developer | Electronics enthusiast | Sheep farmer**
+🚀 **Developing an AI camera system for analyzing sheep behaviour**
 
-Currently working with **HTML, CSS, JavaScript and React** and learning to build **desktop apps using TypeScript + Electron + React**.
+Currently working with **Python, HTML, CSS, JavaScript and React** and learning to build **desktop apps using TypeScript + Electron + React**.
 
 ---
 
@@ -39,5 +39,5 @@ Currently working with **HTML, CSS, JavaScript and React** and learning to build
 
 ---
 
-⭐ Always learning, always building.
+
 
