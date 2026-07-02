@@ -20,7 +20,6 @@ Currently working with **Python, HTML, CSS, JavaScript and React** and learning 
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 ![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge&logo=electron)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
 
