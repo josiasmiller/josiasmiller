@@ -2,7 +2,7 @@
 
 🚀 **Developing an AI camera system for analyzing sheep behaviour**
 
-Currently working with **Python, HTML, CSS, JavaScript and React** and learning to build **desktop apps using TypeScript + Electron + React**.
+Currently working with **Python, Kotlin, HTML, CSS, JavaScript and React**.
 
 ---
 
@@ -22,21 +22,4 @@ Currently working with **Python, HTML, CSS, JavaScript and React** and learning 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge&logo=electron)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
-
-
-🔹 **Sheep Management Program**
-🔹It will include full EID support - Auto drafting and weighing.
-🔹Hardware Packages - Either a stick reader that connects to the app on your phone or a rugged handheld scanner
-🔹Auto Drafting / Weigh Crate will also be available
-🔹Local or Cloud based
-🔹Full Reporting 
-🔹Seamless sync and import/export
-🔹Mobile App for Android (ios later hopefully)
-🔹Local Version will have a handheld scanner similar to the X6 that shearwell has. It will also have a desktop app.
-🔹Cloud based version will have apps for Android and ios and will be paired with a stick reader. Desktop users will have a web dashboard to access their data.
-
-
 ---
-
-
-
