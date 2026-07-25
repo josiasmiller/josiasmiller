@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Josias Miller
 
-🚀 **Developing an AI camera system for analyzing sheep behaviour**
+🚀 **Developing software for managing sheep**
 
 Currently working with **Python, Kotlin, HTML, CSS, JavaScript and React**.
 
