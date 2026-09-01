@@ -23,3 +23,4 @@ Currently working with **Python, Kotlin, HTML, CSS, JavaScript and React**.
 ![Electron](https://img.shields.io/badge/Electron-darkblue?style=for-the-badge&logo=electron)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
 ---
+![](https://hit.yhype.me/github/profile?account_id=182281014)
